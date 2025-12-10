@@ -38,8 +38,8 @@ Our study utilized the following network alignment algorithms (listed alphabetic
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/unified-alignment.git
-cd unified-alignment
+git clone https://github.com/przulj-lab/ulign.git
+cd ulign
 ```
 
 ## Usage
