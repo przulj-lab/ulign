@@ -30,7 +30,7 @@ Python implementation for unifying network alignments across different methods.
 Our study utilized the following network alignment algorithms (listed alphabetically):
 
 - **[HUBALIGN](https://home.ttic.edu/~hashemifar/#softwares)** - Hub-based network alignment
-- **[L-GRAAL](https://github.com/przulj-lab/L-GRAL/)** - Lagrangian relaxation-based graph alignment
+- **[L-GRAAL](https://github.com/przulj-lab/L-GRAAL/)** - Lagrangian relaxation-based graph alignment
 - **[OPTNET](https://github.com/crclark/optnetaligncpp/)** - Optimal network alignment
 - **[PISWAP](https://cb.csail.mit.edu//piswap/webserver/)** - Protein interaction network alignment via swapping
 - **[SPINAL](https://code.google.com/archive/p/spinal/)** - Scalable protein interaction network aligner
