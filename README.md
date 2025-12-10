@@ -20,6 +20,8 @@ This repository provides the datasets and scripts used in our research on unifie
 ### Datasets
 Complete datasets used in the experiments and analyses.
 
+**[Download Datasets](http://www0.cs.ucl.ac.uk/staff/natasa/Ulign/Datasets.zip)** (ZIP archive)
+
 ### Ulign Python Script
 Python implementation for unifying network alignments across different methods.
 
@@ -58,3 +60,7 @@ N. Malod-Dognin, K. Ban and N. Przulj
 Unified Alignment of Protein-Protein Interaction Networks
 Sci Rep. 2017 Apr 19;7(1):953. doi: 10.1038/s41598-017-01085-9. PMID: 28424527; PMCID: PMC5430463.
 ```
+
+## Contact
+
+For questions or issues, please contact Prof. Natasa Przulj at natasa.przulj@mbzuai.ac.ae
