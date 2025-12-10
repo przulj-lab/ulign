@@ -29,13 +29,11 @@ Python implementation for unifying network alignments across different methods.
 
 Our study utilized the following network alignment algorithms (listed alphabetically):
 
-- **[HUBALIGN](http://www.ru.nl/publish/pages/726696/hubalign.zip)** - Hub-based network alignment
-- **[L-GRAAL](http://www0.cs.ucl.ac.uk/staff/natasa/lagrangian-graal/)** - Lagrangian relaxation-based graph alignment
-- **[MAGNA++](http://www3.nd.edu/~cone/MAGNA++/)** - Genetic algorithm-based network aligner
-- **[NATALIE](http://www.molgen.mpg.de/~natalie/)** - Network alignment tool based on integer linear programming
-- **[OPTNET](http://www.optnetalign.org/)** - Optimal network alignment
-- **[PISWAP](http://www.ibi.vu.nl/programs/piswapwww/)** - Protein interaction network alignment via swapping
-- **[SPINAL](http://www.loria.fr/~aalekes/spinal.html)** - Scalable protein interaction network aligner
+- **[HUBALIGN](https://home.ttic.edu/~hashemifar/#softwares)** - Hub-based network alignment
+- **[L-GRAAL](https://github.com/przulj-lab/L-GRAL/)** - Lagrangian relaxation-based graph alignment
+- **[OPTNET](https://github.com/crclark/optnetaligncpp/)** - Optimal network alignment
+- **[PISWAP](https://cb.csail.mit.edu//piswap/webserver/)** - Protein interaction network alignment via swapping
+- **[SPINAL](https://code.google.com/archive/p/spinal/)** - Scalable protein interaction network aligner
 
 ## Installation
 
