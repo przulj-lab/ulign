@@ -46,7 +46,7 @@ cd unified-alignment
 
 ```python
 # Example usage of Ulign script
-python ulign.py [options]
+python ulign.py
 ```
 
 ## Citation
