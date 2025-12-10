@@ -1,0 +1,9 @@
+./Nets/SCerevisiae.gw
+./Nets/HSapiens.gw
+./Alignments/HubAlign_SCerevisiae-HSapiens_1.0.ali
+./Alignments/L-GRAAL_SCerevisiae-HSapiens_0.0.ali
+./Alignments/Magna_SCerevisiae-HSapiens_1.0.ali
+./Alignments/Natalie_SCerevisiae-HSapiens_1.0.ali
+./Alignments/OptNet_SCerevisiae-HSapiens_0.ali
+./Alignments/Piswap_SCerevisiae-HSapiens_0.0.ali
+./Alignments/SpinalM1_SCerevisiae-HSapiens_0.9.ali
