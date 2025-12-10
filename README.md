@@ -18,9 +18,9 @@ This repository provides the datasets and scripts used in our research on unifie
 ## Repository Contents
 
 ### Datasets
-Complete datasets used in the experiments and analyses are available in the datasets/ directory.
+Complete datasets used in the experiments and analyses are available at **[Datasets.zip](http://www0.cs.ucl.ac.uk/staff/natasa/Ulign/Datasets.zip)**
 
-Alternatively, download: **[Datasets Zip](http://www0.cs.ucl.ac.uk/staff/natasa/Ulign/Datasets.zip)**
+*Note: If the link doesn't work when clicked, copy and paste the URL directly into your browser's address bar.*
 
 ### Ulign Python Script
 Python implementation for unifying network alignments across different methods.
