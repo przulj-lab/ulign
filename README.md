@@ -1,6 +1,6 @@
 # Unified Alignment of Protein-Protein Interaction Networks
 
-Supplementary data and resources for the paper on **[unified alignment of protein-protein interaction networks](https://doi.org/10.1038/s41598-017-01085-9)**.
+Supplementary data and resources for the paper on **[Unified Alignment of Protein-Protein Interaction Networks](https://doi.org/10.1038/s41598-017-01085-9)**.
 
 ## Authors
 
