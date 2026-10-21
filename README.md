@@ -1,64 +1,38 @@
+<div align="center">
+
+<img src="images/header02.jpg" width="100%">
+
 # Unified Alignment of Protein-Protein Interaction Networks
 
-Supplementary data and resources for the paper on **[Unified Alignment of Protein-Protein Interaction Networks](https://doi.org/10.1038/s41598-017-01085-9)**.
+**Supplementary data**
 
-## Authors
+**N. Malod-Dognin, K. Ban and N. Pržulj**
 
-- N. Malod-Dognin
-- K. Ban
-- N. Przulj
+Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-**Corresponding Author:** Prof. Natasa Przulj  
-📧 natasa.przulj@mbzuai.ac.ae
+<img src="images/Alignment_Comparison.png" width="400">
 
-## Overview
+</div>
 
-This repository provides the datasets and scripts used in our research on unified alignment methods for protein-protein interaction networks.
+We provide here the datasets and the scripts that we used in the paper.
 
-## Repository Contents
+## Downloads
 
-### Datasets
-Complete datasets used in the experiments and analyses are available at **[Datasets.zip](http://www0.cs.ucl.ac.uk/staff/natasa/Ulign/Datasets.zip)**
+- [Datasets](https://github.com/przulj-lab/ulign/releases/download/v1.0/Datasets.zip)
+- [Ulign Python script for unifying network alignments](https://github.com/przulj-lab/ulign/releases/download/v1.0/Ulign.zip)
 
-*Note: If the link doesn't work when clicked, copy and paste the URL directly into your browser's address bar.*
+## Network aligners used in our study
 
-### Ulign Python Script
-Python implementation for unifying network alignments across different methods.
+In alphabetical order:
 
-## Network Alignment Tools
-
-Our study utilized the following network alignment algorithms (listed alphabetically):
-
-- **[HUBALIGN](https://home.ttic.edu/~hashemifar/#softwares)** - Hub-based network alignment
-- **[L-GRAAL](https://github.com/przulj-lab/L-GRAAL/)** - Lagrangian relaxation-based graph alignment
-- **[OPTNET](https://github.com/crclark/optnetaligncpp/)** - Optimal network alignment
-- **[PISWAP](https://cb.csail.mit.edu//piswap/webserver/)** - Protein interaction network alignment via swapping
-- **[SPINAL](https://code.google.com/archive/p/spinal/)** - Scalable protein interaction network aligner
-
-## Installation
-
-```bash
-git clone https://github.com/przulj-lab/ulign.git
-cd ulign
-```
-
-## Usage
-
-```python
-# Example usage of Ulign script
-python ulign.py
-```
+- [HubAlign](https://home.ttic.edu/~hashemifar/#softwares)
+- [L-GRAAL](https://github.com/przulj-lab/L-GRAAL)
+- [MAGNA++](http://www3.nd.edu/~cone/MAGNA++/)
+- [NATALIE](http://www.mi.fu-berlin.de/w/LiSA/Natalie)
+- [OptNet](https://github.com/crclark/optnetaligncpp)
+- [PISwap](https://cb.csail.mit.edu/cb/piswap/webserver/)
+- [SPINAL](https://code.google.com/archive/p/spinal/)
 
 ## Citation
 
-If you use this code or data in your research, please cite:
-
-```
-N. Malod-Dognin, K. Ban and N. Przulj
-Unified Alignment of Protein-Protein Interaction Networks
-Sci Rep. 2017 Apr 19;7(1):953. doi: 10.1038/s41598-017-01085-9. PMID: 28424527; PMCID: PMC5430463.
-```
-
-## Contact
-
-For questions or issues, please contact Prof. Natasa Przulj at natasa.przulj@mbzuai.ac.ae
+N. Malod-Dognin, K. Ban and N. Pržulj. Unified alignment of protein-protein interaction networks. *Scientific Reports* 7, 953 (2017). https://doi.org/10.1038/s41598-017-01085-9
